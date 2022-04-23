@@ -1,0 +1,19 @@
+1. Compile scss into css:
+    npm run css:scss
+
+2. Install package as dev dependency
+    npm -i -D <package name>
+
+3. Add autoprefixes to css
+    npm run css:autoprefixer  
+
+4. Run linter
+    npm run css:lint
+
+5. Run both scss compile and autoprefixer & linter
+    npm run build:css
+
+
+Commands 1,3,4,5 can all be found in package-lock.json
+
+https://wweb.dev/blog/how-to-create-static-website-npm-scripts/
