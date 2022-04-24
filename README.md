@@ -9,9 +9,9 @@
 - Postcss
 - Webpack
 - StyleLint
+- Pug
 
 # To be added
-- Pug html templating
 - Combine css watch & js watch into one npm command
 
 # You can build and compile the required components with npm
