@@ -12,7 +12,7 @@
     "watch:css": "onchange \"src/scss\" -- npm run build:css",
     "build:js": "webpack --mode=production",
     "watch:js": "onchange \"src/js\" -- webpack --mode=development",
-    "watch:html": "pug -w ./src/pug/*.pug -o ./src/html -P"
+    "watch:html": "pug -w ./src/pug/*.pug -o ./dist -P"
   },
   "author": "",
   "license": "ISC",
