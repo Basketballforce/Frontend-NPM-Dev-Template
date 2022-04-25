@@ -20,3 +20,19 @@
 
 # No automatic browser refreshing is enforced.
 - There are several free tools that support this. For example the live server extension in vscode
+
+# Lessons Learned
+- A lot of js focused frontend dev tools and build tools should really be safed until the end of development
+    - *with the exception of style and code linting
+    - Minimzation and compressed builds, images, etc. can really wait until the end and only complicate dev setup and workflow
+
+- Pug is a cool html templating engine/library but, looses points due to lack of adoption and develper efficiency to a point where using it doesn't make sense (at least in my case)
+    - Learning pug isn't too hard but takes a little bit of time. As someone who knows most of the html I am going to need & with the benefits of a modern text editor (such as snippets and autocomplete), using pug doesn't really speed up develpment and only slows me down/complicates the workflow.
+    - Due to lack of adoption, I want to use boilerplate I would be combining pug with 
+
+    - I was really only looking to use pug to extend html pages but, this can easily be done with copy and paste.
+
+- Simplicity is key, and it seems the heart of popular html,css & js frontend tooling seems to conflict this. 
+    - Each tool has its place and purpose but, as a dev building a website, I don't really want these tools till the end of the development process.
+    - I spent 3-5 learning and setting up these tools. I'd much rather spent that time working on a site's html,css & js
+
