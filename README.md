@@ -13,6 +13,7 @@
 
 # To be added
 - Combine css watch & js watch into one npm command
+- Combine css & tailwind watch scripts into one npm command
 
 # You can build and compile the required components with npm
 - Watch & Build css on changes: npm run watch:css
@@ -37,3 +38,5 @@
     - Each tool has its place and purpose but, as a dev building a website, I don't really want these tools till the end of the development process.
     - I spent 3-5 hours learning and setting up these tools. I'd much rather have spent that time working on a site's html,css & js
 
+- SCSS is awesome if your are extending another existing css library or building your own
+    - Otherwise, its probably overkill
