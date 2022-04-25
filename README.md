@@ -40,3 +40,10 @@
 
 - SCSS is awesome if your are extending another existing css library or building your own
     - Otherwise, its probably overkill
+
+- Tailwind & many other tooling's install and setup process can & should be explained more verbosely for those less familiar to the tooling & npm (In my opinon)
+
+
+# Other
+- Best Pug tutorial I could find: https://www.sitepoint.com/a-beginners-guide-to-pug/
+- Inspiration for this repo: https://wweb.dev/blog/how-to-create-static-website-npm-scripts/
