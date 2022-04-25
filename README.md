@@ -17,6 +17,7 @@
 # You can build and compile the required components with npm
 - Watch & Build css on changes: npm run watch:css
 - Watch & Build js on changes: npm run watch:js
+- Watch & Build tailwind on changes: npm run watch:tailwind
 
 # No automatic browser refreshing is enforced.
 - There are several free tools that support this. For example the live server extension in vscode
