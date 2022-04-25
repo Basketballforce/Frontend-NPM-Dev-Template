@@ -22,7 +22,7 @@
 - There are several free tools that support this. For example the live server extension in vscode
 
 # Lessons Learned
-- A lot of js focused frontend dev tools and build tools should really be safed until the end of development
+- A lot of js focused frontend dev tools and build tools should really be saved until the end of development
     - *with the exception of style and code linting
     - Minimzation and compressed builds, images, etc. can really wait until the end and only complicate dev setup and workflow
 
