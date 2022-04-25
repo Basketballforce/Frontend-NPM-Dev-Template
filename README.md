@@ -34,5 +34,5 @@
 
 - Simplicity is key, and the heart of popular html,css & js frontend tooling seems to conflict this. 
     - Each tool has its place and purpose but, as a dev building a website, I don't really want these tools till the end of the development process.
-    - I spent 3-5 hours learning and setting up these tools. I'd much rather spent that time working on a site's html,css & js
+    - I spent 3-5 hours learning and setting up these tools. I'd much rather have spent that time working on a site's html,css & js
 
