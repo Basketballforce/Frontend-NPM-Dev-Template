@@ -28,11 +28,11 @@
 
 - Pug is a cool html templating engine/library but, looses points due to lack of adoption and develper efficiency to a point where using it doesn't make sense (at least in my case)
     - Learning pug isn't too hard but takes a little bit of time. As someone who knows most of the html I am going to need & with the benefits of a modern text editor (such as snippets and autocomplete), using pug doesn't really speed up develpment and only slows me down/complicates the workflow.
-    - Due to lack of adoption, I want to use boilerplate I would be combining pug with 
+    - Due to lack of adoption, I want to use html boilerplate with pug but, that requires converion each time which can be tedious & error prone 
 
     - I was really only looking to use pug to extend html pages but, this can easily be done with copy and paste.
 
-- Simplicity is key, and it seems the heart of popular html,css & js frontend tooling seems to conflict this. 
+- Simplicity is key, and the heart of popular html,css & js frontend tooling seems to conflict this. 
     - Each tool has its place and purpose but, as a dev building a website, I don't really want these tools till the end of the development process.
     - I spent 3-5 learning and setting up these tools. I'd much rather spent that time working on a site's html,css & js
 
